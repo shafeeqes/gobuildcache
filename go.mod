@@ -1,4 +1,4 @@
-module github.com/saracen/gobuildcache
+module github.com/shafeeqes/gobuildcache
 
 go 1.23.1
 
